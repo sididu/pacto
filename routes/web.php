@@ -21,6 +21,21 @@ Route::get('about-team', function () {return view('website.about-team');});
 
 Route::get('about-me', function () {return view('website.about-me');});
 
+Route::get('construction', function () {return view('website.homepage.construction');});
+
+Route::get('consultant', function () {return view('website.homepage.consultant');});
+
+Route::get('corporate', function () {return view('websit.homepage.corporate');});
+
+Route::get('gym', function () {return view('website.homepage.gym');});
+
+Route::get('index-default', function () {return view('website.homepage.index-default');});
+
+Route::get('medical', function () {return view('website.homepage.medical');});
+
+Route::get('mobile-app', function () {return view('website.homepage.mobile-app');});
+
+Route::get('personal', function () {return view('website.homepage.personal');});
 
 
 Auth::routes();
