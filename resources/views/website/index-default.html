@@ -951,7 +951,7 @@
                <!-- Back to Top --> 
                <div id="back-to-top"><a class="top arrow" href="#top"><i class="fa fa-chevron-up"></i></a></div>
                <!-- jquery  -->
-               <script type="text"/javascript" src="{{ asset('templates/pacto/js/jquery.min.js')}}"></script>
+               <script type="text/javascript" src="{{ asset('templates/pacto/js/jquery.min.js')}}"></script>
                <!-- Bootstrap -->
                <script type="text/javascript" src="{{ asset('templates/pacto/js/bootstrap.min.js')}}"></script>
                <!-- Appear -->

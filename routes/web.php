@@ -25,7 +25,7 @@ Route::get('construction', function () {return view('website.homepage.constructi
 
 Route::get('consultant', function () {return view('website.homepage.consultant');});
 
-Route::get('corporate', function () {return view('websit.homepage.corporate');});
+Route::get('corporate', function () {return view('website.homepage.corporate');});
 
 Route::get('gym', function () {return view('website.homepage.gym');});
 
