@@ -322,8 +322,8 @@
                      <div class="widget">
                         <h6 class="text-uppercase">OFFICE 01</h6>
                         <ul class="list-unstyled address">
-                           <li><i class="lnr lnr-map-marker"></i><span>387 Madison Ave, New York, NY 10118</span></li>
-                           <li><i class="lnr lnr-envelope"></i><span>support@yourname.com</span></li>
+                           <li><i class="lnr lnr-map-marker"></i><span><strong>Gaharu Studio Residence</strong><br> Jl. Gaharu 4 No. 6, Jakarta 12430, INDONESIA</span></li>
+                           <li><i class="lnr lnr-envelope"></i><span>support@intersolusi.com</span></li>
                            <li><i class="icon-phone"></i><span>(+91) 123-456-7890</span></li>
                         </ul>
                      </div>
@@ -350,7 +350,7 @@
                   <div class="col-md-6 col-sm-8 col-sm-offset-4 col-md-offset-6">
                      <div class="py-7 pl-7 xs-pl-0 xs-py-5">
                         <div class="heading-block">
-                           <h2 class="solid-weight text-uppercase mb-1">Bryce Vaughn</h2>
+                           <h2 class="solid-weight text-uppercase mb-1">Tonny H. Soerojo</h2>
                            <span>CEO/Founder</span>
                         </div>
                         <p class="lead">Launching an attractive and scalable website quickly and afforadably is important for modern startups — Stack offers massive value without looking ‘bargain-bin’.</p>
@@ -374,7 +374,7 @@
          <!-- End Banner -->
          <section class="p-0">
             <div class="container-fluid">
-               <!-- BRYCE VAUGHN -->
+               <!-- Tonny H. Soerojo -->
                <div class="row">
                   <div class="col-md-6">
                      <div class="row no-gutter">
@@ -417,7 +417,7 @@
                      </div>
                   </div>
                </div>
-               <!-- End BRYCE VAUGHN -->
+               <!-- End Tonny H. Soerojo -->
                <!-- Team -->
                <div class="row">
                   <div class="col-md-6">
@@ -470,10 +470,10 @@
                <div class="container">
                   <div class="row">
                      <div class="col-sm-3 col-xs-6 col-xx-12 mb-4">
-                        <h6 class="text-uppercase">About Pecto</h6>
+                        <h6 class="text-uppercase">About InterSolusi</h6>
                         <ul class="list-unstyled address">
-                           <li><i class="lnr lnr-map-marker"></i><span>387 Madison Ave, New York, NY 10118</span></li>
-                           <li><i class="lnr lnr-envelope"></i><a href="mailto:support@yourname.com">support@yourname.com</a></li>
+                           <li><i class="lnr lnr-map-marker"></i><span><strong>Gaharu Studio Residence</strong><br> Jl. Gaharu 4 No. 6, Jakarta 12430, INDONESIA</span></li>
+                           <li><i class="lnr lnr-envelope"></i><a href="mailto:support@intersolusi.com">support@intersolusi.com</a></li>
                            <li><i class="lnr lnr-phone-handset"></i><span>(+91) 123-456-7890</span></li>
                         </ul>
                      </div>
@@ -512,7 +512,7 @@
             <div class="footer-bottom">
                <div class="container">
                   <div class="row">
-                     <div class="col-sm-6">© 2017 Pecto All rights reserved</div>
+                     <div class="col-sm-6">© 2017 <a hred="http://www.intersolusi.com" target="_blank"> InterSolusi Network</a> All rights reserved</div>
                      <div class="col-sm-6 text-right">
                         <ul class="list-unstyled list-inline footer-social">
                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>

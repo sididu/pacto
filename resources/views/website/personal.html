@@ -445,13 +445,13 @@
                                  <div class="col-md-6">
                                     <h6 class="solid-weight mb-0">Home Address</h6>
                                     <ul class="list-unstyled address">
-                                       <li><i class="lnr lnr-home"></i><span>387 Madison Ave, New York, NY 10118</span></li>
+                                       <li><i class="lnr lnr-home"></i><span><strong>Gaharu Studio Residence</strong><br> Jl. Gaharu 4 No. 6, Jakarta 12430, INDONESIA</span></li>
                                     </ul>
                                  </div>
                                  <div class="col-md-6">
                                     <h6 class="solid-weight mb-0">Office Address</h6>
                                     <ul class="list-unstyled address">
-                                       <li><i class="lnr lnr-map-marker"></i><span>387 Madison Ave, New York, NY 10118</span></li>
+                                       <li><i class="lnr lnr-map-marker"></i><span><strong>Gaharu Studio Residence</strong><br> Jl. Gaharu 4 No. 6, Jakarta 12430, INDONESIA</span></li>
                                     </ul>
                                  </div>
                               </div>
