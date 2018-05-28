@@ -36,3 +36,5 @@
       @include('themes.website.menu.megamenu')
       <!-- /.navbar-collapse -->
     </div>
+    @include('themes.website.menu.sidemenu')
+  </nav>

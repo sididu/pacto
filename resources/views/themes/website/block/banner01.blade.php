@@ -7,7 +7,7 @@
                   </div>
                   <div class="col-sm-12">
                      <ul class="page-breadcrumb">
-                        <li><a href="index-default.html">Home</a></li>
+                        <li><a href="index-default">Home</a></li>
                         <li><a href="about">Pages</a></li>
                         <li><span class="theme-text">Our Services</span> </li>
                      </ul>
